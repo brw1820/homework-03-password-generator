@@ -25,7 +25,7 @@ Proceed to run the index.html file in your browser.  Once loaded, click the "gen
 ## Usage 
 
 This HTML file provides a password generator to the user.
-![Example of Password Generator](.\Assets\passwordgenerator.png)
+![Example of Password Generator](./Assets/passwordgenerator.png)
 
 ## Credits
 
